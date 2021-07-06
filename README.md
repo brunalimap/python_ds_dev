@@ -10,7 +10,8 @@ O curso tem como objetivo apronfundar os conhecimentos na linguagem python, e me
 
 
 ## 3.0 Aprendizado no curso 
-
+- Webscraping 
+- Linguagem SQL 
 
 ## 5.0 Próximas Etapas
  
